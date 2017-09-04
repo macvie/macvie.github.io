@@ -5,6 +5,7 @@ title = "Ballada o dziwnym malarzu (cover)"
 menu = "main"
 Categories = ["video"]
 Tags = ["polnish"]
+draft = true
 
 +++
 

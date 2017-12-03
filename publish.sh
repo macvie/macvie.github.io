@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+mkdir -p public
 git pull && cd public && git pull && cd .. || exit 1
 pwd
 hugo

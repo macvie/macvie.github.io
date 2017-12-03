@@ -1,10 +1,10 @@
 +++
 date = "2017-11-18T18:46:55+02:00"
-title = "Szcześliwej drogi juz czas"
+title = "Szczęśliwej drogi już czas"
 menu = "main"
 Categories = ["kitchen"]
 Tags = ["polnish"]
-Description = "MacVie - Szcześliwej drogi juz czas (VOX cover, KT-GQ session)"
+Description = "MacVie - Szczęśliwej drogi już czas (VOX cover, KT-GQ session)"
 
 +++
 

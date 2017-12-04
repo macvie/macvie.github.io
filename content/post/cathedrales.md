@@ -4,7 +4,7 @@ Description = ""
 Tags = ["français"]
 date = "2016-11-28T13:46:06+02:00"
 menu = "main"
-title = "Il est venu le temps des cathédrales (cover)"
+title = "Il est venu le temps des cathédrales (Cover, feat. Jean Michel on piano)"
 
 +++
 

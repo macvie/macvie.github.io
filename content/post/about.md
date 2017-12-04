@@ -15,17 +15,19 @@ Briefly
 
 Currently based in Berlin, **MacVie** is a singer-songwriter in the making. 
 
-His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations cover different genres coming from rock, pop rock, pop, blues, Nordic jazz, chansons françaises and deutsche Pop, and even from different national the Voice editions, some of them are quite old and still make up his daily playlists. Those, of course, evolve as much as the artist himself. (...) Although late, the journey finally begins.
+His songs and compositions will look for a pop-rock sound with appealing melodies. While his influences and inspirations come from different genres coming from rock, pop rock, pop, blues, Nordic jazz, chansons françaises and deutsche Pop, and even from different national the Voice editions, from the Eurovision Song Contest or, last but not least, from various youtube published music sessions –– like “Sofar Sounds” and “Sofar Global”, “Mahogany sessions”, “Berlin Session”, "Vevo dscvr”, just to name a few –– some of them are quite old and still make up his daily playlists. Those, of course, evolve as much as the artist himself.
+
+Although late, the journey has finally began and continues.
 
 
 About me
 ===
 
 
-Of course, there have been many loves in between. Music, however, was my first one and, who knows, might as well remain the last. Not unusual, young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **"The Holy Ghost"** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until recently when it hit me again but hard. The consequence is now that although late––albeit not too late because for music it is never too late––I want to sing more and better in order to reach myself and then, why not if it happens, some other people as well. 
+Of course, there have been many loves in between. Music, however, was my first one and, who knows, might as well remain the last. Not unusual, young, it hit me as an unexpected storm full of thunders and lightnings. Later, it followed me here and there through different stages in life, once actively with the band **"The Holy Ghost"** during the university time in Potsdam and few concerts on the university stage. Since then, it has constantly accompanied my European odyssey until late 2ß16 when it hit me again but hard. The consequence has been that although late––albeit not too late because for music it is never too late––I want to sing more and better in order to reach myself and then, why not if it happens, some other people as well. 
 
 
-Influences (playlists)
+Influences and playlists
 ====
  
 MacVie's musical influences come from across different genres and various geographical locations. Sometimes they come and go. Sometimes they stay, and even if they go, they may as well come back again. In this way, many good songs, often exceptional voices and also interesting ways of singing have been inspiring for me over the years: 

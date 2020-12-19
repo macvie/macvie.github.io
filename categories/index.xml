@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Categories on MacVie </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://macvie.eu/categories/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 08 Aug 2020 19:21:58 &#43;0200</updated>
+    
+    <item>
+      <title></title>
+      <link>http://macvie.eu/categories/</link>
+      <pubDate>Sat, 08 Aug 2020 19:21:58 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/categories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Audio</title>
+      <link>http://macvie.eu/categories/audio/</link>
+      <pubDate>Sat, 15 Aug 2020 06:47:55 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/categories/audio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video</title>
+      <link>http://macvie.eu/categories/video/</link>
+      <pubDate>Fri, 10 Apr 2020 06:47:55 &#43;0200</pubDate>
+      
+      <guid>http://macvie.eu/categories/video/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

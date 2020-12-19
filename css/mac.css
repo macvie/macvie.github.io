@@ -1,0 +1,14 @@
+html {
+    font-family: 'avenir next', avenir, sans-serif !important;
+}
+.post p {
+    line-height: 1.5rem !important;
+    font-size: 1.2rem !important;
+}
+
+.post pre {
+    margin-top: 2rem !important;
+    background-color: #f8f8f8 !important;
+    width: 110% !important;
+    margin-left: -2em !important;
+}
